@@ -1,0 +1,25 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+# screenshots
+/Screenshot/
+# Reports
+allure-report/
+allure-results/
+html-report/
+junit.xml
+json-report.json
+# Secrets and local config
+.env
+.env.*
+.mcp.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
